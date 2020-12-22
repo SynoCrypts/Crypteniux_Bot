@@ -162,3 +162,9 @@ https://discord.com/oauth2/authorize?client_id=787418243987013642&scope=bot&perm
 
 > norris
 - Random Chuck Norris fact.
+
+> gsearch `[image]`
+- Searchs a google image.
+- !: Only available in `nsfw` channels due to innapropiate images!
+- Example:
+- s!gsearch Food
