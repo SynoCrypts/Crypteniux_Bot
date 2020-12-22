@@ -61,3 +61,45 @@ https://discord.com/oauth2/authorize?client_id=787418243987013642&scope=bot&perm
 
 > unlockdown
 - Adds the action for the role `@everyone` to send messages in the channel the command is used in.
+
+> rps
+- Plays Rock Paper Scissors with the bot.
+- Example:
+- s!rps rock
+
+> bobwithoutping [question]
+- Creates a random message for your question and sends it.
+- Example:
+- s!bobwithoutping hi?
+
+> kiss [mention]
+- Creates a embed with a anime kiss gif.
+- Example:
+- s!kiss @user#0000
+
+> slap [mention]
+- Creates a embed with a anime slap gif.
+- Example:
+- s!slap @user#0000
+
+> 8ball [question]
+- Responds to your question.
+- Example:
+- s!8ball Is the day outside looking good?
+
+> define [word]
+- Gets information from urbandictionary about your `word` and sends it here.
+- Example:
+- s!define Hello World!
+
+> pp
+- No description.
+
+> cat
+- Generates a random cat picture and sends it.
+
+> dog
+- Generates a random dog picture and sends it.
+
+> coinflip
+- No description.
