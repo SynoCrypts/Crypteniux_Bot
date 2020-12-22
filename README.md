@@ -5,7 +5,7 @@
 # About:
 - A Discord Bot developed by SynoCrypts using Discord.JS
 - Over 40+ commands.
-- This bpt `isn't` hosted `24/7` yet. It's hosted on my PC, so it will only be online when my PC is active.
+- This bot `isn't` hosted `24/7` yet. It's hosted on my PC, so it will only be online when my PC is active.
 
 # Invite:
 https://discord.com/oauth2/authorize?client_id=787418243987013642&scope=bot&permissions=8
