@@ -4,7 +4,7 @@
 
 # About:
 - A Discord Bot developed by SynoCrypts using Discord.JS
-- Over 40+ commands.
+- Over 40+ commands + hidden commands.
 - This bot `isn't` hosted `24/7` yet. It's hosted on my PC, so it will only be online when my PC is active.
 
 # Invite:
