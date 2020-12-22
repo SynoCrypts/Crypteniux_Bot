@@ -15,3 +15,48 @@ https://discord.com/oauth2/authorize?client_id=787418243987013642&scope=bot&perm
 # Commands:
 - The symbols `[` and `]` mean those are required arguments.
 - The symbols `(` and `)` mean those are optional arguments.
+- Prefix: `s!`
+
+> poll `[string] , [num, seconds]`
+- Use comma `,` to separate the poll arguments.
+- Maximum seconds: 5000, Minimum seconds: 3
+- Example:
+- s!poll Cool?, 32
+
+> slowmode `[num]`
+- Sets the current channel's slowmode
+- Maximum seconds: 5000, Minimum seconds: 1
+- Example:
+- s!slowmode 1
+
+> kick `[mention] (reason)`
+- Kicks the user that is mentioned.
+- Example:
+- s!kick @🌨Shineiii❄#2504 Posting bad stuff.
+- The reason is optional here.
+
+> ban `[mention] (reason)`
+- Bans the user that is mentioned.
+- Example:
+- s!ban @🌨Shineiii❄#2504 I've said stop.
+- The reason is optional here too.
+
+> unban `[user id]`
+- Unbans the user with the specific user id.
+- Enable developer mode to copy IDs.
+- Example:
+- s!unban 458698478957101056
+
+> purge `[num]`
+- Deletes messages.
+- Maximum messages: 100, Minimum messages: 1
+- Example:
+- s!purge 8
+
+> unslowmode
+
+> lockdown
+- Removes action for the role `@everyone` to send messages in the channel the command is used in.
+
+> unlockdown
+- Adds the action for the role `@everyone` to send messages in the channel the command is used in.
