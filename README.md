@@ -67,27 +67,27 @@ https://discord.com/oauth2/authorize?client_id=787418243987013642&scope=bot&perm
 - Example:
 - s!rps rock
 
-> bobwithoutping [question]
+> bobwithoutping `[question]`
 - Creates a random message for your question and sends it.
 - Example:
 - s!bobwithoutping hi?
 
-> kiss [mention]
+> kiss `[mention]`
 - Creates a embed with a anime kiss gif.
 - Example:
 - s!kiss @user#0000
 
-> slap [mention]
+> slap `[mention]`
 - Creates a embed with a anime slap gif.
 - Example:
 - s!slap @user#0000
 
-> 8ball [question]
+> 8ball `[question]`
 - Responds to your question.
 - Example:
 - s!8ball Is the day outside looking good?
 
-> define [word]
+> define `[word]`
 - Gets information from urbandictionary about your `word` and sends it here.
 - Example:
 - s!define Hello World!
@@ -103,3 +103,62 @@ https://discord.com/oauth2/authorize?client_id=787418243987013642&scope=bot&perm
 
 > coinflip
 - No description.
+
+> rid `[roblox username]`
+- Gets the roblox user's UserID.
+- Example:
+- s!rid SynoCrypts
+
+> rinfo `[roblox userid]`
+- Gets details about the roblox user's profile.
+- Example:
+- s!rinfo 1
+
+> math `[numbers, strings]`
+- Does math for you.
+- Example:
+- s!math ((5^3)/5)+2
+
+> invite
+- DMs you invite.
+
+> dm
+- No description.
+
+> gav
+- Guild's icon/avatar.
+
+> av
+- Your icon/avatar.
+
+> hasperms
+- Detects if bot has administrator permissions.
+
+> info
+- No description.
+
+> ping
+- Pong!
+
+> membercount
+- How many members there are in this guild.
+
+> insult `[mention]`
+- Insults the user that is mentioned.
+- Example:
+- s!insult @user#0000
+
+> gay `(mention)`
+- Generates a random number with how gay the user is.
+
+> meme
+- Generates random meme from reddit.
+
+> hmeme
+- Generates random meme using Heroku's MEME API.
+
+> dadjoke
+- Random dad joke.
+
+> norris
+- Random Chuck Norris fact.
