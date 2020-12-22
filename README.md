@@ -54,6 +54,7 @@ https://discord.com/oauth2/authorize?client_id=787418243987013642&scope=bot&perm
 - s!purge 8
 
 > unslowmode
+- Sets the channel's slowmode to 0.
 
 > lockdown
 - Removes action for the role `@everyone` to send messages in the channel the command is used in.
