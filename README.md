@@ -169,4 +169,16 @@ https://discord.com/oauth2/authorize?client_id=787418243987013642&scope=bot&perm
 - Example:
 - s!gsearch Food
 
+> shiba
+- No description.
+
+> pug
+- No description.
+
+> husky
+- No description.
+
+> cat2
+- No description.
+
 > End
